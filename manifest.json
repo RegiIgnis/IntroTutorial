@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "IntroTutorial",
+  "author": "RegiRock'n'Roll",
+  "version": "1.0.0",
+  "description": "Intro Tutorial Mod",
+  "gameVersion": ".0.0.01",
+  "type": "Mod",
+  "url": "..."
+}
